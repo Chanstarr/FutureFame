@@ -1,0 +1,192 @@
+body {background-color:white;
+    /* background-image: url('https://th.bing.com/th/id/OIP.OT0SWeBb-UlO34pCefAb3wHaEK?w=242&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7'); */
+    background-size: cover;
+    /* font-family: 'Roboto', sans-serif; */
+    margin: 0;
+    font-family:cursive ;
+    padding: 0;
+}
+/* 
+.container {
+    max-width: 1000px;
+    margin: 50px auto;
+    padding: 40px;
+    background-color: rgba(247, 232, 222, 0.587);
+    /* background-color: rgba(255, 255, 255, 0.8); */
+    /* border-radius: 8px; 
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    animation: fadeIn 1s ease-in-out;
+}
+
+h1 {
+    font-size: 36px;
+    color: #091ad6;
+    margin-bottom: 40px;
+    animation: slideInFromTop 2s ease-in-out;
+}
+
+.content-box {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    height: 100%;
+    /* animation: fadeIn 1s ease-in-out; 
+} */
+h1{
+
+    text-align: center;
+    font-size: 35px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    text-decoration: underline blue; /* Underline in blue color */
+    text-decoration-style:solid; /* Set the style of the underline */
+    text-decoration-color: blue;
+}
+p {
+    color: #333;
+    line-height: 1.5;
+    font-size: 23px;
+    max-width: 1300px; /* Adjust the value to set the desired maximum width */
+    margin: 0 auto; /* Centers the paragraph horizontally */
+    padding: 0 20px;
+    margin-top: 15px;
+    text-align:justify;
+    /* background-color: black; */
+    animation: fadeIn 1s ease-in-out; 
+    /* animation: typewriter 1.5s steps(10) infinite; */
+}
+h2{
+    color: #333;
+    line-height: 1.5;
+    font-size: 23px;
+    font-weight: lighter;
+    max-width: 1300px; /* Adjust the value to set the desired maximum width */
+    margin: 0 auto; /* Centers the paragraph horizontally */
+    padding: 0 20px;
+    margin-top: 15px;
+    text-align:justify;
+    /* background-color: black; */
+    animation: fadeIn 3s ease-in-out; 
+    /* animation: typewriter 1.5s steps(10) infinite; */
+}
+h3{
+    color: #333;
+    line-height: 1.5;
+    font-size: 23px;
+    font-weight: lighter;
+    max-width: 1300px; /* Adjust the value to set the desired maximum width */
+    margin: 0 auto; /* Centers the paragraph horizontally */
+    padding: 0 20px;
+    margin-top: 15px;
+    text-align:justify;
+    /* background-color: black; */
+    animation: fadeIn 6s ease-in-out; 
+    /* animation: typewriter 1.5s steps(10) infinite; */
+}
+h4{
+    color: #333;
+    line-height: 1.5;
+    font-size: 23px;
+    font-weight: lighter;
+    max-width: 1300px; /* Adjust the value to set the desired maximum width */
+    margin: 0 auto; /* Centers the paragraph horizontally */
+    padding: 0 20px;
+    margin-top: 15px;
+    text-align:justify;
+    /* background-color: black; */
+    animation: fadeIn 8.5s ease-in-out; 
+    /* animation: typewriter 1.5s steps(10) infinite; */
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    animation: fadeIn 1s ease-in-out;
+}
+
+.btn {
+    display: inline-block;
+    padding: 12px 20px;
+    background-color: #091ad6;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 18px;
+    transition: background-color 0.3s ease;
+    margin: 0 10px;
+    animation: pulse 2s infinite;
+}
+
+.btn:hover {
+    background-color: #60adeb;
+}
+
+@keyframes slideInFromTop {
+    0% {
+        transform: translateY(-100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05)
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  @keyframes typewriter {
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 100%;
+    }
+}
+.typing-container {
+    font-family: Arial, sans-serif;
+    font-size: 23px;
+    overflow:inherit;
+    white-space: nowrap;
+}
+
+/* Animation for typing effect */
+.typing-text {
+    display: inline-block;
+    animation: typing 3s steps(30, end) forwards;
+}
+@keyframes typing {
+    from {
+        width: 50%;
+    }
+    to {
+        width: 100%;
+    }
+}

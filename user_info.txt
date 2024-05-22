@@ -1,0 +1,631 @@
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: None
+Language: en-US
+Country: Unknown
+City: Unknown
+Latitude: Unknown
+Longitude: Unknown
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: http://localhost:5000/login
+Language: en-US
+Country: Unknown
+City: Unknown
+Latitude: Unknown
+Longitude: Unknown
+
+User IP: 192.168.43.139
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Referrer: None
+Language: en-US
+Country: Unknown
+City: Unknown
+Latitude: Unknown
+Longitude: Unknown
+
+User IP: 192.168.43.139
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Referrer: http://192.168.43.132:5000/predictdata
+Language: en-US
+Country: Unknown
+City: Unknown
+Latitude: Unknown
+Longitude: Unknown
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: http://localhost:5000/login
+Language: en-US
+Country: Unknown
+City: Unknown
+Latitude: Unknown
+Longitude: Unknown
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: http://localhost:5000/login
+Language: en-US
+Country: Unknown
+City: Unknown
+Latitude: Unknown
+Longitude: Unknown
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: http://localhost:5000/index
+Language: en-US
+Country: Unknown
+City: Unknown
+Latitude: Unknown
+Longitude: Unknown
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: http://localhost:5000/predictdata
+Language: en-US
+Country: Unknown
+City: Unknown
+Latitude: Unknown
+Longitude: Unknown
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: http://localhost:5000/analysis
+Language: en-US
+Country: Unknown
+City: Unknown
+Latitude: Unknown
+Longitude: Unknown
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: None
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Chrome
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: None
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Chrome
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: None
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Chrome
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: None
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Chrome
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: None
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Chrome
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: http://localhost:5000/index
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Chrome
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: None
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Chrome
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: http://localhost:5000/analysis
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Chrome
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: http://localhost:5000/login
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Chrome
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: http://localhost:5000/login
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Chrome
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: http://localhost:5000/login
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Chrome
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: http://localhost:5000/login
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Chrome
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: http://localhost:5000/login
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Chrome
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: http://localhost:5000/login
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Chrome
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: None
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Chrome
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: http://localhost:5000/index
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Chrome
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: None
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Chrome
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: None
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Edge
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: None
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Edge
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: None
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Edge
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: None
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Edge
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: http://localhost:5000/login
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Edge
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: None
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Edge
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: http://localhost:5000/predictdata
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Edge
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 192.168.19.17
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Referrer: None
+Language: en-US
+Accessed URL: http://192.168.19.132:5000/
+Platform: Android
+Browser: Chrome
+Is Mobile: True
+Is Tablet: False
+Is PC: False
+
+User IP: 192.168.19.17
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Referrer: None
+Language: en-US
+Accessed URL: http://192.168.19.132:5000/
+Platform: Android
+Browser: Chrome
+Is Mobile: True
+Is Tablet: False
+Is PC: False
+
+User IP: 192.168.19.17
+User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Referrer: None
+Language: en-US
+Accessed URL: http://192.168.19.132:5000/
+Platform: Linux
+Browser: Chrome
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 192.168.19.17
+User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Referrer: None
+Language: en-US
+Accessed URL: http://192.168.19.132:5000/
+Platform: Linux
+Browser: Chrome
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 192.168.19.17
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Referrer: None
+Language: en-US
+Accessed URL: http://192.168.19.132:5000/
+Platform: Android
+Browser: Chrome
+Is Mobile: True
+Is Tablet: False
+Is PC: False
+
+User IP: 192.168.19.17
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Referrer: http://192.168.19.132:5000/analysis
+Language: en-US
+Accessed URL: http://192.168.19.132:5000/
+Platform: Android
+Browser: Chrome
+Is Mobile: True
+Is Tablet: False
+Is PC: False
+
+User IP: 192.168.19.17
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Referrer: http://192.168.19.132:5000/analysis
+Language: en-US
+Accessed URL: http://192.168.19.132:5000/
+Platform: Android
+Browser: Chrome
+Is Mobile: True
+Is Tablet: False
+Is PC: False
+
+User IP: 192.168.19.17
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Referrer: http://192.168.19.132:5000/login
+Language: en-US
+Accessed URL: http://192.168.19.132:5000/
+Platform: Android
+Browser: Chrome
+Is Mobile: True
+Is Tablet: False
+Is PC: False
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: None
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Edge
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 192.168.19.17
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Referrer: http://192.168.19.132:5000/login
+Language: en-US
+Accessed URL: http://192.168.19.132:5000/
+Platform: Android
+Browser: Chrome
+Is Mobile: True
+Is Tablet: False
+Is PC: False
+
+User IP: 192.168.19.17
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Referrer: None
+Language: en-US
+Accessed URL: http://192.168.19.132:5000/
+Platform: Android
+Browser: Chrome
+Is Mobile: True
+Is Tablet: False
+Is PC: False
+
+User IP: 192.168.19.17
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Referrer: None
+Language: en-US
+Accessed URL: http://192.168.19.132:5000/
+Platform: Android
+Browser: Chrome
+Is Mobile: True
+Is Tablet: False
+Is PC: False
+
+User IP: 192.168.19.17
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Referrer: http://192.168.19.132:5000/login
+Language: en-US
+Accessed URL: http://192.168.19.132:5000/
+Platform: Android
+Browser: Chrome
+Is Mobile: True
+Is Tablet: False
+Is PC: False
+
+User IP: 192.168.19.17
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Referrer: http://192.168.19.132:5000/login
+Language: en-US
+Accessed URL: http://192.168.19.132:5000/
+Platform: Android
+Browser: Chrome
+Is Mobile: True
+Is Tablet: False
+Is PC: False
+
+User IP: 192.168.19.17
+User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Referrer: http://192.168.19.132:5000/login
+Language: en-US
+Accessed URL: http://192.168.19.132:5000/
+Platform: Linux
+Browser: Chrome
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: http://localhost:5000/predictdata
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Edge
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: None
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Edge
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: http://localhost:5000/analysis
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Edge
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Referrer: http://localhost:5000/predictdata
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Edge
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
+Referrer: None
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Edge
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
+Referrer: None
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Edge
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 192.168.16.17
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Referrer: None
+Language: en-US
+Accessed URL: http://192.168.16.132:5000/
+Platform: Android
+Browser: Chrome
+Is Mobile: True
+Is Tablet: False
+Is PC: False
+
+User IP: 192.168.16.17
+User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Referrer: None
+Language: en-US
+Accessed URL: http://192.168.16.132:5000/
+Platform: Linux
+Browser: Chrome
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
+Referrer: None
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Edge
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
+Referrer: None
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Edge
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+
+User IP: 127.0.0.1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
+Referrer: http://localhost:5000/analysis
+Language: en-US
+Accessed URL: http://localhost:5000/
+Platform: Windows
+Browser: Edge
+Is Mobile: False
+Is Tablet: False
+Is PC: True
+

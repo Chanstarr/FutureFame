@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/pred.css') }}">
+    <style>
+        body{
+            background-color: lightgrey;
+            font-family: Arial, sans-serif;
+        }
+        .container{
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px black;
+            margin-top: 50px;
+        }
+        .card{
+            background-color: #f5f5f5;
+            border-radius: 15px;
+            padding: 3px;
+            margin-bottom: 1rem;
+            margin-left: 180px;
+            margin-right: 180px;
+            box-shadow: black;
+            
+        }
+        .card1{
+            background-color: #f5f5f5;
+            border-radius: 15px;
+            padding: 2px;
+            margin-bottom: 1rem;
+            margin-left: 180px;
+            margin-right: 180px;
+            
+        }
+        h1{
+            font-size: 2.5rem;
+            color: black;
+            text-decoration: underline blue; /* Underline in blue color */
+            text-decoration-style:solid; /* Set the style of the underline */
+            text-decoration-color: blue;
+        }
+        h5{
+            font-size: 1.5rem;
+            color: #0056b3;
+        }
+        .card-title{
+            font-size: 1.5rem;
+            color: #0056b3;
+        }
+        h6{
+            font-size: 1.6rem;
+            font-weight: bolder;
+        }
+        h3{
+            font-size: 30px;
+            font-weight: bolder;
+            line-height: 1.5;
+            text-align: justify;
+            color: black;
+            margin-left: 20px;
+        }
+        p{
+            font-size: 1.2rem;
+            color: black;
+            margin-left: 20px;
+            /* color: #333333; */
+        }
+        .navbar {
+
+background-color:rgb(215, 206, 195);
+overflow: hidden;
+height: 60px;
+}
+.navbar a {
+float: right;
+display: block;
+color: black;
+text-align: center;
+padding: 10px 16px;
+text-decoration: none;
+border-bottom: 2px solid transparent;
+transition: border-bottom-color 3s ease;
+position: relative;
+}
+.navbar a:hover {
+/* background-color: #ddd; */
+color: black;
+/* border-bottom: 2px solid black; */
+font-weight: bolder;
+}
+.navbar a:after {
+content: "";
+position: absolute;
+font-weight: bold;
+left: 0;
+bottom: 1px;
+width: 0;
+height: 3px;
+background-color:blue;
+transition: width 0.5s ease;
+}
+
+.navbar a:hover:after {
+width: 80%;
+left: 10%;
+}
+.navbar a.active {
+color: black;
+font-weight: bolder;
+position: relative;
+}
+
+.navbar a.active::after {
+content: "";
+position: absolute;
+bottom: -1px; /* Adjust this value as needed */
+left: 0;
+width: 100%;
+border-bottom: 1.4px solid blue;
+}
+.student_performance {
+float: left;
+color: black;
+font-size: 20px;
+padding: 20px 30px;
+text-align: center;
+text-decoration: none;
+border-bottom: 2px solid transparent;
+/* margin-right: auto; Add this line */
+line-height: 10px;
+}
+a{
+font-size: 20px;
+}
+b{
+font-size: 30px;
+font-weight: bolder;
+}
+body {
+    font-family:cursive ;
+margin: 0;
+padding: 0;
+}
+       
+    </style>
+    <div class="navbar">
+        <div class="student_performance">
+            <b href="/">FutureFame</b>
+        </div>
+        <a href="/logout">Logout</a>
+        <a href="/analysis">Analysis</a>
+        <a href="/predictdata">Predict</a>
+        <a href="/upload">Upload</a>
+        <a href="/index">Home</a>
+    </div>
+</head>
+<body>
+        <h1 class="text-center mt-5">Prediction Results</h1>
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <fieldset class="card">
+                    <legend class="card-title">The Accuracy of the Model :</legend>
+                    <div class="card-body">
+                        <p class="card-text">{{ "%.4f"|format(accuracy) }}%</p>
+                    </div>
+                </fieldset>
+            </div>
+            <div class="col-md-6">
+                <fieldset class="card">
+                    <legend class="card-title">The Predicted value :</legend>
+                    <div class="card-body">  
+                        <p class="card-text">{{ "%.5f"|format(results[0]) }}</p>
+                    </div>
+                </fieldset>
+            </div>
+            <div class="col-md-6">
+                <fieldset class="card">
+                    <legend class="card-title">The Result is :</legend>
+                    <div class="card-body">
+                        <h3 class="card-text">{{ result }}</h3>
+                    </div>
+                </fieldset>
+            </div>
+        </div>
+        
+    <!-- </div> -->
+</body>
+</html>

@@ -1,0 +1,402 @@
+gender,university_type,extra_curricular,attendance,test_preparation_course,test_score,prep_score,final_score
+male,public,drama,95,none,67,74,72
+female,private,music,65,completed,91,95,94
+male,public,volunteering activity,95,completed,66,72,70
+male,public,drama,95,none,92,100,97
+female,public,music,70,completed,76,82,80
+male,public,drama,95,none,74,81,79
+male,private,art,95,completed,87,90,90
+male,public,volunteering activity,75,completed,75,77,77
+female,public,drama,60,none,43,50,48
+female,public,music,60,completed,98,100,100
+male,public,dance,75,none,95,97,97
+female,private,dance,70,none,30,49,41
+female,public,music,60,none,29,11,21
+female,private,sports,65,completed,82,88,86
+female,private,drama,65,completed,89,95,93
+male,private,dance,95,completed,72,81,78
+male,private,art,95,none,74,80,78
+male,private,volunteering activity,70,none,21,4,14
+female,public,art,75,completed,89,95,93
+male,private,dance,75,none,93,100,98
+male,public,art,70,none,3,31,18
+female,public,music,70,completed,64,68,67
+male,public,music,95,none,59,65,63
+female,public,drama,60,completed,61,63,63
+female,public,volunteering activity,70,completed,74,83,80
+male,private,sports,75,none,84,92,89
+male,public,volunteering activity,95,none,60,62,62
+male,public,art,95,completed,61,68,66
+male,private,dance,95,none,88,96,93
+female,private,volunteering activity,75,completed,83,87,86
+male,public,art,95,completed,80,89,86
+female,public,drama,75,none,78,86,83
+female,public,music,60,completed,84,89,88
+male,private,art,95,completed,68,78,74
+female,public,sports,65,completed,77,84,82
+male,private,drama,75,completed,85,87,87
+male,public,music,75,none,79,86,84
+male,private,drama,75,none,86,96,92
+male,private,volunteering activity,95,completed,55,60,59
+male,public,art,70,none,4,14,10
+female,public,volunteering activity,70,completed,65,71,69
+female,public,dance,65,none,50,15,34
+male,private,art,70,completed,56,57,58
+male,private,music,95,completed,69,79,75
+female,private,sports,75,none,74,76,76
+female,private,music,75,none,76,81,80
+male,private,volunteering activity,70,none,15,9,13
+male,private,sports,70,none,7,47,28
+female,private,drama,70,none,16,16,17
+male,private,sports,75,none,69,75,73
+female,private,dance,60,none,11,45,29
+female,public,music,75,completed,56,58,58
+male,private,sports,75,none,83,85,85
+male,public,sports,75,none,100,100,100
+male,private,art,75,completed,82,84,84
+male,private,sports,95,completed,86,94,91
+female,private,drama,70,completed,80,85,84
+female,public,dance,65,none,14,35,26
+male,public,dance,95,none,97,100,100
+male,private,art,75,completed,91,93,93
+female,private,volunteering activity,70,none,7,22,16
+male,private,volunteering activity,75,completed,64,74,70
+male,public,dance,75,none,79,83,82
+male,private,dance,95,none,75,81,79
+female,private,art,75,completed,89,98,95
+male,public,music,75,none,70,75,74
+female,private,art,70,none,33,36,36
+male,public,art,75,none,61,71,67
+male,private,sports,95,completed,58,61,61
+male,public,art,95,none,99,100,100
+male,private,dance,95,none,99,100,100
+female,public,dance,60,completed,68,75,73
+female,private,volunteering activity,70,completed,92,97,96
+male,private,sports,70,none,34,12,24
+male,private,volunteering activity,75,none,69,73,72
+male,private,sports,75,completed,81,89,86
+male,public,drama,95,completed,65,71,69
+female,private,music,75,completed,87,95,92
+male,public,drama,75,none,57,60,60
+male,private,art,70,completed,74,77,77
+male,public,music,70,completed,85,90,89
+male,public,drama,95,completed,80,82,82
+male,public,sports,95,completed,65,74,71
+male,private,dance,95,completed,75,85,81
+female,private,drama,65,none,34,12,24
+female,public,art,60,completed,91,100,97
+male,public,music,75,none,68,78,74
+female,private,sports,60,none,0,34,18
+male,private,drama,70,completed,87,91,90
+female,private,drama,75,completed,67,74,72
+female,private,sports,70,completed,86,90,89
+female,private,art,60,completed,99,100,100
+male,public,dance,75,completed,60,69,66
+male,private,drama,95,completed,87,93,91
+male,public,drama,70,completed,70,76,74
+female,public,dance,65,completed,69,77,74
+male,private,dance,70,completed,89,90,91
+male,public,dance,95,none,93,99,97
+female,private,sports,75,none,90,97,95
+male,public,art,70,none,20,17,20
+male,public,drama,75,none,71,72,73
+male,public,dance,70,completed,100,100,100
+male,public,music,95,completed,69,70,71
+female,private,art,60,completed,99,100,100
+female,private,music,70,completed,68,69,70
+male,private,music,95,none,86,95,92
+male,public,volunteering activity,75,completed,65,70,69
+male,private,dance,75,none,68,75,73
+male,private,dance,95,none,56,62,60
+male,private,drama,70,completed,72,79,77
+male,private,music,70,none,33,21,28
+female,private,music,70,completed,74,84,80
+male,private,dance,75,none,57,63,61
+male,private,music,95,none,63,65,65
+female,private,drama,75,completed,65,66,67
+male,public,sports,95,completed,69,70,71
+male,public,art,70,none,16,16,17
+male,private,music,70,none,25,19,23
+male,private,drama,75,none,95,100,99
+female,public,volunteering activity,75,completed,100,100,100
+male,private,art,95,none,81,84,84
+female,private,volunteering activity,70,completed,68,72,71
+female,public,drama,60,none,27,30,30
+female,public,volunteering activity,70,none,26,23,26
+male,private,art,95,none,64,69,68
+male,public,art,70,completed,97,98,99
+female,private,art,70,completed,99,100,100
+female,private,drama,60,completed,91,97,95
+male,private,music,75,completed,91,100,97
+male,private,volunteering activity,70,completed,99,100,100
+male,private,dance,70,none,48,49,50
+male,public,art,75,none,79,83,82
+male,public,art,75,none,58,66,63
+male,public,music,70,completed,79,88,85
+male,private,drama,70,none,15,15,16
+female,private,dance,70,none,12,21,18
+male,public,art,75,completed,92,95,95
+male,public,dance,70,completed,73,81,78
+female,private,sports,70,completed,70,77,75
+male,public,sports,95,none,74,80,78
+female,public,volunteering activity,70,none,34,17,27
+male,private,music,95,none,61,69,66
+female,public,music,75,none,67,74,72
+male,public,dance,70,completed,100,100,100
+male,private,sports,95,completed,95,100,99
+female,public,dance,70,completed,79,80,81
+female,public,dance,70,none,2,2,3
+male,public,dance,70,completed,55,60,59
+female,public,drama,65,completed,87,89,89
+female,public,sports,70,completed,81,87,85
+male,public,art,95,none,67,77,73
+female,public,sports,70,completed,95,96,97
+female,private,sports,75,none,77,81,80
+female,private,drama,75,none,92,98,96
+male,private,sports,75,completed,57,62,61
+male,public,drama,70,none,43,36,41
+female,private,art,60,completed,62,70,67
+female,private,drama,70,none,34,40,38
+male,private,art,70,completed,82,87,86
+male,private,drama,70,completed,68,71,71
+male,private,art,75,none,60,63,63
+male,private,sports,95,none,55,59,58
+male,public,dance,75,none,99,100,100
+male,public,music,70,none,16,37,28
+female,public,music,65,none,2,41,23
+male,private,volunteering activity,70,none,30,48,40
+male,private,sports,95,completed,86,87,88
+female,public,sports,60,none,16,15,17
+female,private,art,60,none,38,11,26
+male,private,music,95,none,56,62,60
+male,private,volunteering activity,75,none,56,65,62
+male,private,music,70,completed,79,86,84
+female,public,art,60,none,11,32,23
+male,public,art,70,none,9,16,14
+male,public,volunteering activity,75,completed,65,68,68
+male,private,art,95,none,95,100,99
+male,private,dance,95,completed,66,71,70
+male,public,music,95,completed,65,66,67
+female,private,sports,75,none,98,100,100
+male,public,art,95,completed,83,91,88
+male,private,sports,70,completed,92,100,97
+male,private,volunteering activity,95,completed,61,66,65
+female,public,sports,65,none,15,27,22
+female,public,drama,75,completed,98,100,100
+male,private,sports,75,completed,87,97,93
+male,public,drama,70,completed,91,100,97
+female,public,music,65,completed,88,93,92
+female,public,volunteering activity,70,completed,85,87,87
+male,private,music,70,none,26,31,30
+female,private,sports,65,completed,77,86,83
+female,public,music,60,none,49,29,40
+male,public,art,70,completed,82,92,88
+male,private,volunteering activity,75,completed,56,58,58
+male,private,volunteering activity,70,completed,68,69,70
+male,public,drama,70,none,36,34,36
+male,public,volunteering activity,70,none,3,22,14
+male,private,music,95,none,56,61,60
+male,public,volunteering activity,95,completed,70,73,73
+female,public,dance,65,completed,97,99,99
+male,private,music,95,completed,57,58,59
+male,public,drama,70,none,18,6,13
+male,public,volunteering activity,75,completed,63,65,65
+male,public,drama,70,none,29,46,39
+male,public,sports,95,none,55,63,60
+female,private,dance,75,completed,96,98,98
+male,public,drama,95,completed,67,75,72
+male,private,art,75,completed,98,100,100
+male,private,dance,70,completed,95,100,99
+female,private,dance,60,none,9,24,18
+male,private,dance,95,completed,60,66,64
+male,private,music,95,none,73,76,76
+female,public,dance,75,none,78,88,84
+male,public,drama,70,none,5,46,27
+male,private,dance,75,none,67,77,73
+male,public,music,75,completed,87,88,89
+male,public,drama,95,completed,64,71,69
+male,public,music,70,completed,63,70,68
+female,public,art,70,completed,55,64,61
+male,private,music,75,none,62,66,65
+male,public,art,75,none,80,89,86
+male,public,volunteering activity,70,completed,56,61,60
+female,public,art,65,none,46,4,26
+male,public,volunteering activity,70,none,15,15,16
+male,private,volunteering activity,75,completed,76,80,79
+female,public,music,75,completed,91,94,94
+female,public,drama,70,completed,72,77,76
+male,private,music,95,none,90,96,94
+female,public,sports,75,none,80,82,82
+male,private,sports,75,completed,94,95,96
+female,public,music,65,none,44,27,37
+male,public,drama,75,none,56,65,62
+female,private,music,65,completed,84,94,90
+male,public,dance,70,none,10,20,16
+male,private,dance,70,none,12,22,18
+male,private,volunteering activity,75,none,73,78,77
+male,public,drama,70,completed,58,59,60
+female,private,music,60,completed,99,100,100
+female,private,art,65,completed,85,88,88
+female,private,art,65,completed,82,83,84
+female,private,art,75,completed,74,84,80
+male,public,dance,70,completed,86,94,91
+female,private,music,65,none,18,20,20
+male,private,volunteering activity,75,completed,91,92,93
+female,private,sports,75,none,75,82,80
+female,public,sports,60,none,14,6,11
+female,private,dance,65,completed,77,84,82
+male,public,volunteering activity,75,none,77,80,80
+female,private,sports,75,completed,72,81,78
+female,private,sports,65,none,4,34,20
+female,private,sports,65,none,36,38,38
+male,private,drama,95,completed,83,86,86
+male,public,dance,70,none,24,2,14
+male,public,drama,95,completed,65,66,67
+male,private,dance,75,completed,72,82,78
+female,private,dance,60,completed,80,84,83
+female,private,dance,65,none,18,25,23
+female,private,art,60,completed,59,65,63
+male,public,sports,75,completed,58,62,61
+male,private,sports,95,completed,55,65,61
+male,private,volunteering activity,95,none,65,74,71
+male,public,sports,70,none,42,31,38
+female,public,sports,65,none,21,20,22
+male,public,dance,70,completed,98,100,100
+female,private,sports,75,none,81,90,87
+female,public,art,60,completed,98,99,100
+female,private,sports,65,none,13,7,11
+female,private,dance,75,none,92,93,94
+male,private,art,70,completed,97,98,99
+female,public,music,60,none,42,39,42
+male,public,art,75,completed,80,89,86
+female,private,dance,70,completed,65,74,71
+male,private,dance,95,none,60,66,64
+male,public,music,70,none,45,12,30
+male,private,dance,70,completed,66,73,71
+female,public,sports,75,none,92,94,94
+female,private,dance,65,completed,94,100,98
+male,public,art,70,none,48,19,35
+female,private,music,75,none,99,100,100
+female,public,art,70,none,9,3,7
+male,private,sports,75,completed,80,88,85
+male,public,volunteering activity,95,completed,63,65,65
+female,public,drama,65,completed,66,68,68
+female,private,music,75,completed,80,81,82
+female,private,music,75,none,65,70,69
+male,private,music,95,none,95,100,99
+male,private,art,70,none,50,29,41
+male,private,dance,70,none,32,45,40
+female,private,art,75,completed,84,91,89
+female,public,volunteering activity,60,completed,57,60,60
+male,private,sports,75,completed,73,83,79
+male,private,music,95,none,90,97,95
+male,public,drama,70,none,12,11,13
+male,private,volunteering activity,70,completed,99,100,100
+male,private,volunteering activity,70,completed,76,82,80
+female,private,drama,75,completed,97,100,100
+male,public,sports,75,completed,94,95,96
+female,public,sports,65,none,12,12,13
+male,private,music,70,completed,74,84,80
+female,private,music,65,completed,80,85,84
+male,private,music,70,none,14,10,13
+female,public,dance,75,none,55,64,61
+male,private,sports,95,none,85,86,87
+male,private,drama,70,none,37,41,40
+female,private,sports,60,none,2,29,17
+female,public,volunteering activity,65,completed,66,72,70
+female,private,art,75,completed,81,82,83
+male,public,music,70,completed,92,95,95
+male,private,sports,70,none,13,17,16
+male,private,dance,75,none,75,85,81
+female,private,drama,70,none,29,23,27
+female,public,music,75,none,61,63,63
+male,private,drama,75,completed,98,100,100
+male,private,dance,70,completed,81,82,83
+male,private,music,70,none,20,2,12
+female,public,sports,70,none,5,22,15
+male,private,volunteering activity,70,completed,84,93,90
+female,public,dance,75,completed,64,66,66
+female,private,drama,75,none,84,86,86
+female,public,volunteering activity,70,completed,88,95,93
+female,public,dance,75,none,79,89,85
+male,private,drama,95,completed,82,88,86
+male,private,art,70,none,16,24,21
+male,public,dance,75,completed,58,61,61
+female,public,art,75,none,96,100,99
+female,public,music,60,none,24,10,18
+male,public,volunteering activity,75,none,92,100,97
+male,public,dance,95,none,87,88,89
+male,private,sports,95,none,96,100,99
+male,private,sports,75,none,61,70,67
+female,public,dance,75,completed,60,68,65
+male,private,volunteering activity,95,completed,68,78,74
+male,public,volunteering activity,75,completed,60,64,63
+male,public,drama,95,none,98,100,100
+female,public,sports,75,none,87,96,93
+male,public,dance,70,completed,99,100,100
+female,private,drama,65,completed,85,89,88
+female,public,drama,65,none,20,13,18
+female,private,dance,70,completed,60,67,65
+female,public,volunteering activity,60,none,23,47,36
+female,public,volunteering activity,60,none,41,7,25
+male,private,art,75,none,58,67,64
+male,public,music,75,none,88,94,92
+male,private,art,70,completed,81,91,87
+female,public,drama,75,completed,97,98,99
+female,public,volunteering activity,75,none,94,99,98
+male,private,drama,75,completed,89,91,91
+female,public,drama,70,none,3,16,11
+male,public,music,75,none,61,67,65
+female,public,art,70,completed,75,81,79
+male,public,music,70,none,0,1,2
+female,public,volunteering activity,60,completed,82,89,87
+male,public,art,95,completed,95,100,99
+female,private,dance,70,none,29,15,23
+female,public,dance,65,none,23,45,35
+female,public,sports,60,completed,91,97,95
+female,public,volunteering activity,75,completed,67,77,73
+male,private,dance,75,completed,95,97,97
+male,private,drama,75,none,78,80,80
+female,public,volunteering activity,65,completed,58,63,62
+male,private,drama,95,none,98,100,100
+male,public,volunteering activity,75,none,91,94,94
+male,private,dance,75,completed,95,100,99
+female,public,music,60,none,39,15,28
+female,private,music,70,none,2,14,9
+male,private,volunteering activity,70,completed,61,63,63
+male,private,sports,70,completed,83,90,88
+female,public,music,65,none,29,5,18
+female,private,dance,70,none,35,18,28
+female,public,volunteering activity,65,completed,63,65,65
+female,private,volunteering activity,65,none,18,18,19
+female,public,music,70,completed,95,100,99
+male,private,drama,70,completed,57,58,59
+male,private,volunteering activity,70,completed,77,78,79
+female,public,dance,70,none,37,14,27
+male,public,volunteering activity,95,none,78,80,80
+male,private,volunteering activity,75,none,87,90,90
+female,private,sports,75,completed,93,96,96
+male,private,drama,75,none,72,76,75
+female,public,music,65,none,50,45,49
+male,public,dance,70,completed,61,70,67
+male,public,dance,95,completed,79,84,83
+male,private,art,70,none,7,38,24
+male,public,drama,70,none,7,7,8
+female,public,dance,75,completed,57,62,61
+female,private,drama,60,completed,72,76,75
+male,public,drama,95,completed,82,83,84
+male,private,dance,95,completed,83,89,87
+female,private,art,75,none,94,96,96
+female,private,music,70,completed,59,67,64
+male,public,drama,70,none,44,40,43
+female,private,dance,60,completed,79,85,83
+male,public,art,75,none,86,93,91
+female,private,sports,65,completed,91,98,96
+female,public,dance,60,completed,88,98,94
+female,private,sports,65,completed,63,67,66
+male,public,drama,70,completed,60,66,64
+female,private,volunteering activity,60,none,39,16,29
+male,public,dance,70,none,46,16,32
+male,public,art,75,completed,78,79,80
+male,public,art,95,completed,60,70,66
+male,private,dance,95,completed,60,63,63

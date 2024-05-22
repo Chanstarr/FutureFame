@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.card1{
+    background-color: #f5f5f5;
+    border-radius: 15px;
+    padding: 2px;
+    margin-bottom: 1rem;
+    margin-left: 180px;
+    margin-right: 180px;
+    
+}
+
+.card-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 18px;
+}
+
+p {
+    color: #333;
+    line-height: 1.5;
+    font-size: 20px;
+    text-align: justify;
+}
+h3{
+    font-size: 30px;
+    font-weight: bolder;
+    line-height: 1.5;
+    text-align: justify;
+    color: black;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    color: #091ad6;
+    margin-bottom: 40px;
+    animation: slideInFromTop 1s ease-in-out;
+}
