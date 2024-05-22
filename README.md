@@ -96,9 +96,10 @@ The project has the following structure:
 
 1. Run the application: `python app.py`
 2. Access the web interface in your browser at `http://localhost:5000`
-3. In the Project we have added the dataset, also we can change the dataset by uploading a new dataset in the Upload page.
-4. Fill in the student information and submit the form to obtain the predicted score, accuracy of the selected model and the Result(Pass/Fail).
-5. In the Analysis page, we can view the Performance analysis for the Dataset.
+3. In the Home page you would be asked to Login, give the username: User1 and Password: Password1 or username: User2 and Password: Password2.
+4. In the Project we have already added the dataset, also we can change the dataset by uploading a new dataset in the Upload page.
+5. Fill in the student information and submit the form to obtain the predicted score, accuracy of the selected model and the Result(Pass/Fail).
+6. In the Analysis page, we can view the Performance analysis for the Dataset.
 
 ## Authors
 
